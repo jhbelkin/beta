@@ -1,6 +1,6 @@
 {
-  "homepage": "https://BELKIN-02.github.io/Beta1",
-  "name": "beta-website",
+  "homepage": "https://jhbelkin.github.io/beta",
+  "name": "beta",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
